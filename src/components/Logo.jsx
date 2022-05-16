@@ -3,9 +3,7 @@ import React from 'react'
 export const Logo = () => {
   return (
       <>
-    <div>
-    <img className='logo' src="logo.png" alt="" srcset="" />
-  </div>
+      <h2 className='logotext'>LOGOBAKERY</h2>
       </>
   )
 }
